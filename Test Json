@@ -1,0 +1,12 @@
+{
+      "name": "Roushan Kumar",
+      "age": 45,
+      "sex": "Male",
+      "permanentAddress": "Marathali, Banglore",
+      "currentAddress": "Koderma, Jharkhand",
+      "mail": "rocky@mailinator.com",
+      "phone": 9876543210,
+      "govtIdNumber": "cbcpk7956z",
+      "country": "India",
+      "martialStatus": "Married"
+    }

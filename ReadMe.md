@@ -3,4 +3,4 @@ Steps : -
  
  2. Post attached json request to  http://localhost:8080/onBoard to onboard client.
  
- 3.For healthcheck , http://localhost:8080/actuator/health.
+ 3. For healthcheck , http://localhost:8080/actuator/health.
